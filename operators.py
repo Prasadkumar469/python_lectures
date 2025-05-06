@@ -60,5 +60,5 @@ l1 = [1,2,3]
 l2 = [1,2,3]
 print(l1 == l2) # True, because the values are same
 print(id(l1), id(l2))
-print(l1 is l2) # False
+print(l1 is l2) # False because pointing to different memory locations
 print(l1 is not l2) # True

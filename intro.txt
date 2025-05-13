@@ -1,0 +1,32 @@
+Python is a high-level, interpreted programming language known for 
+its simplicity, readability.
+It was created by Guido van Rossum and first released in 1991.
+
+Key Features:
+
+Easy to Learn and Read: Uses clear, English-like syntax.
+
+Interpreted Language: Code runs line-by-line, no need for compilation.
+
+Dynamically Typed: You don’t need to declare variable types explicitly.
+
+Multi-paradigm: Supports object-oriented, procedural, and functional programming.
+
+Large Standard Library: Comes with built-in modules for file I/O, math, web services, etc.
+
+Cross-platform: Works on Windows, Linux, macOS, etc.
+
+Extensible: Can be integrated with C/C++, Java, etc.
+
+Common Uses:
+Web Development (e.g., Django, Flask)
+
+Data Science & Machine Learning (e.g., pandas, NumPy, scikit-learn, TensorFlow)
+
+Automation & Scripting
+
+Desktop Applications
+
+Game Development
+
+Internet of Things (IoT)

@@ -1,0 +1,6 @@
+numpy
+pandas
+mysql
+postgresql
+boto3
+azure
